@@ -271,7 +271,7 @@ const FuturisticLandingPage = () => {
           }`}
         >
           <div className="text-center">
-            <div className="text-4xl font-bold text-cyan-400 mb-2">420+</div>
+            <div className="text-4xl font-bold text-cyan-400 mb-2">460+</div>
             <div className="text-gray-400">Active Developers</div>
           </div>
           <div className="text-center">
